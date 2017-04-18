@@ -1,0 +1,50 @@
+.container-fluid{
+  background-color:yellow;
+  height:1000px;
+  padding:50px;
+}
+
+.header1{
+  margin-top:50px;
+  border-style:solid;
+  border-color:black;
+  height:150px;
+  background-color:blue;
+}
+
+.nav1{
+  margin:auto;
+  border-style:solid;
+  border-color:black;
+  height:50px;
+  background-color:green;
+}
+
+.content1{
+  border-style:solid;
+  border-color:black;
+  height:200px;
+  background-color:red;
+}
+
+.aside1{
+  border-style:solid;
+  border-color:black;
+  height:200px;
+  background-color:aqua;
+}
+
+.promo1, .promo2, .promo3, .promo4{
+  border-style:solid;
+  border-color:black;
+  height:100px;
+  background-color:orange;
+}
+
+.footer1{
+  border-style:solid;
+  border-color:black;
+  height:50px;
+  background-color:black;
+  color:white;
+}
