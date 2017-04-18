@@ -48,3 +48,13 @@
   background-color:black;
   color:white;
 }
+
+@media only screen and (min-width: 500px){
+  .content1 {background-color:yellow;
+  }
+}
+
+@media only screen and (min-width: 768px){
+  .promo1, .promo2 {background-color:blue;
+  }
+}
